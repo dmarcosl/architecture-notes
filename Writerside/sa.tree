@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="sa"
+                 name="Software Architect"
+                 start-page="Basic-Knowledge.md">
+
+    <toc-element topic="Basic-Knowledge.md">
+        <toc-element topic="what-is-a-software-architect.md"/>
+        <toc-element topic="architects-mindset.md"/>
+        <toc-element topic="the-architecture-process.md"/>
+        <toc-element topic="working-with-system-requirements.md"/>
+        <toc-element topic="Types-of-Applications.md"/>
+        <toc-element topic="Selecting-Technology-Stack.md"/>
+        <toc-element topic="Quality-Attributes.md"/>
+        <toc-element topic="Component-s-Architecture.md"/>
+    </toc-element>
+</instance-profile>
