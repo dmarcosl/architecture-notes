@@ -1,3 +1,1 @@
 # Basic Knowledge
-
-Start typing here...

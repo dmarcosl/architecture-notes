@@ -15,5 +15,6 @@
         <toc-element topic="Selecting-Technology-Stack.md"/>
         <toc-element topic="Quality-Attributes.md"/>
         <toc-element topic="Component-s-Architecture.md"/>
+        <toc-element topic="Design-Patterns.md"/>
     </toc-element>
 </instance-profile>
